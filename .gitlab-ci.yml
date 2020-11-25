@@ -1,4 +1,6 @@
 pages:
+  script:
+    - mv * .
   artifacts:
     paths:
-      - .
+    - .
