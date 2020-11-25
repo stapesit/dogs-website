@@ -1,7 +1,7 @@
 pages:
   script:
   - mkdir public
-  - mv -r * ./public
+  - mv * ./public
   artifacts:
     paths:
     - ./public
